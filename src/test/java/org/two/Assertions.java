@@ -37,5 +37,6 @@ public class Assertions {
 		boolean contains = s.contains("k");
 		Assert.assertNotEquals(true,contains);
 		System.out.println("\t"+contains);
+		System.out.println("changes made by QA");
 	}
 }
